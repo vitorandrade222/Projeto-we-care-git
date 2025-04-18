@@ -6,4 +6,4 @@
 <h2>We Care Pc</h2>
 <img src="https://github.com/vitorandrade222/Projeto-we-care-git/blob/master/img/we%20pc.jpg" alt="site-pc">
 <h2>We Care Mobile</h2>
-<img src="https://github.com/vitorandrade222/Projeto-we-care-git/blob/master/img/we%20care%20mobile.jpg" alt="site-mobile">
+<img src="https://github.com/vitorandrade222/Projeto-we-care-git/blob/master/img/we%20mobile.jpg" alt="site-mobile">
