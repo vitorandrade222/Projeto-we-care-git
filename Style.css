@@ -56,7 +56,7 @@ header {
 
 section {
     display: inline-block;
-    margin-left: 76px;
+    margin-left: 220px;
 }
 
 h1 {
@@ -89,6 +89,7 @@ p {
         height: 317px;
         position: static;
         margin-left: 20px;
+        
     
     }
     
@@ -96,6 +97,10 @@ p {
         display: none;
     }
 
+    section  {
+        display: block;
+        margin-left: 0px;
+    }
     .button-login {
         display: none;
     }
@@ -107,7 +112,6 @@ p {
     h1 {
         font-size: 50px;
         position: relative;
-
         text-align: center;
     }
 
@@ -120,6 +124,7 @@ p {
     
     .button-explore {
         position: relative;
-        top: -50px;
+        text-align: center;
+        left: 70px;
     }   
 }
