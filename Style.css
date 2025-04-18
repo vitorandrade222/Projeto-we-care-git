@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 
-.logo-image {
+.image {
     width: 568px;
     height: 500px;
-    margin-left: 125px;
+    margin-left: 152px;
     display: inline-block;
 
 }
@@ -84,7 +84,7 @@ p {
 }
 
 @media screen and (max-width: 800px) {
-    .logo-image {
+    .image {
         width: 354px;
         height: 317px;
         position: static;
